@@ -1,0 +1,1 @@
+	[1,"cars",[{"id":"1","brand":"Mer�edes","type":"stick","location":{"x":44.232323,"y":56.223232}},{"id":"2","brand":"Opel","type":"automate","location":{"x":44.232323,"y":56.223232}},{"id":3,"brand":"bmw","location":{"x":44.232323,"y":56.223232}}]]

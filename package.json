@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "flat-file-db": "^1.0.0"
+
+  },
+  "name": "pcarwebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cars.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alex",
+  "license": "ISC"
+}
